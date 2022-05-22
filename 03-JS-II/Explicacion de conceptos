@@ -1,0 +1,7 @@
+For: es un bucle cuya funcion es ayudarnos a repetir un bloque de codigos muchas veces. Para poder utilizarlo debemos darle ciertos datos y escribirlos en el siguiente orden: for (declaracion de una variable (esto es sobre lo que se repetira el bucle); expresion condicional (se seguira repitiendo hasta que la declaracion de como resultado falso); cuanto o de que manera se ira incrementando la variable luego de cada bloque de codigos) {Bloque de codigos que utilizaremos}
+
+&&: Es un operador logico que simboliza "Y" ("And" en ingles), lo que hace es devolvernos una conclusion de 2 (o mas) expresiones, si ambas expresiones son verdaderas devolvera True, y si una o ambas expresiones son falsas devolvera False.
+
+||: Es un operador logico que simboliza "O" ("Or" en ingles), lo que hace es devolvernos una conclusion de 2 (o mas) expresiones, si una o ambas expresiones son verdaderas devolvera True, y si ambas expresiones son falsas devolvera False.
+
+!: Es un operador logico que simboliza "No" ("Not" en ingles), lo que hace es devolver el valor booleano opuesto a lo que se le pasa (ej: Si la expresion da como resultado natural True, este operador logico hara que devuelta lo contrario (False))

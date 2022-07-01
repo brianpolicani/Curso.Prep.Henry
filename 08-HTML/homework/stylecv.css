@@ -1,0 +1,23 @@
+.Cara{
+    float: left;
+    width: 171px;
+    height: 171px;
+    margin: 1em;
+}
+.columna1{
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    background-color: rgb(214, 255, 241);
+    font-family: Arial;
+    }
+.columna2{
+    float: right;
+    width: 50%;
+    right: 50px;
+    font-family: Arial;
+}
+.letra{
+    font-family: Arial;
+  }
+ 

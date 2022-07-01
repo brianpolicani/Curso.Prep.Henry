@@ -1,0 +1,38 @@
+h1 {
+    color:darksalmon;
+} 
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    display: flex;
+    margin: auto;
+    /* creo que margin no entra en flex-box, fue la unica forma que me salio bien */
+    background-color: indianred;
+    padding: 50px;
+    border: 15px double rgb(96, 179, 137);
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-image: url("https://lh3.googleusercontent.com/PzEBDykT57L8yu4ScyKVh4D45fHijhK2O6-jxVv8wPtiFcujQXh_GfxcvXscuXibXy61fN7IdYKselo5eBknXhrFh453v2bXbhtDOi8S3Lav-cCTdHlPXxn4mhTQ7RC3aEoCjqJA");
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.divClass{
+text-align: center;
+color:darkseagreen;
+background-color: white;
+/* Se que los cambios de colores no estaban incluidos en esta tarea,
+pero lo hice porque con la imagen de fondo no se veia el texto,
+pudo haber quedado mas prolijo pero todavia no entiendo bien como hacerlo */
+}
